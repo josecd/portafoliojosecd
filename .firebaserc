@@ -1,11 +1,11 @@
-// {
-//   "projects": {
-//     "default": "portafoliojosecorderodiaz"
-//   }
-// }
+ {
+   "projects": {
+     "default": "portafoliojosecorderodiaz"
+   }
+ }
 
-{
+/* {
   "projects": {
     "default": "fm-sentinel"
   }
-}
+} */

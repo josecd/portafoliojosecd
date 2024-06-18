@@ -31,7 +31,7 @@
                 <div class="mt-4">
                     <ul role="list" class="list-disc space-y-2 pl-4 text-sm">
                         <li class="text-gray-400"><span class="text-gray-600"> Me encanta usar el software como solución para cada problema.</span></li>
-                        <li class="text-gray-400"><span class="text-gray-600">Actualmente estoy abierto a una nueva <span>oportunidad laboral</span>  , este es  <a  target="_blank" href="https://drive.google.com/file/d/1NdjD_CjbZ51_GEC7a3F6qWt4d4McYXoT/view?usp=sharing" _blank class="font-medium text-indigo-600 hover:text-indigo-500">MI CURRICULUM</a></span></li>
+                        <li class="text-gray-400"><span class="text-gray-600">Actualmente estoy abierto a una nueva <span>oportunidad laboral</span>  , este es  <a  target="_blank" href="https://drive.google.com/file/d/1oe0pVUgU73wu6cc2gB7UzRSvKb0SJPcN/view?usp=sharing" _blank class="font-medium text-indigo-600 hover:text-indigo-500">MI CURRICULUM</a></span></li>
                         <li class="text-gray-400"><span class="text-gray-600">Siempre aprendiendo y actualizandome con las tecnologías.</span></li>
                     </ul>
                 </div>

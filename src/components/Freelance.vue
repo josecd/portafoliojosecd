@@ -18,11 +18,53 @@
                                 <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                                     <a>
                                         <span class="absolute inset-0"></span>
+                                        Alify AI
+                                    </a>
+                                </h3>
+                                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
+                                    Aplicación para gestión de empresas por medio de inteligencia artificial.
+                                </p>
+
+                                <div class="mt-4">
+                                    <ul role="list" class="list-disc space-y-2 pl-4 text-sm">
+                                           <li class="text-gray-400"><span class="text-gray-600"> Desarrollo de front-end con Angular.
+                                            </span></li>
+                                        <li class="text-gray-400"><span class="text-gray-600"> Diseño e implementación de
+                                                una API RESTful utilizando el framework NestJS.
+                                            </span></li>
+                                        <li class="text-gray-400"><span class="text-gray-600">Implementación con la conexión de al api de OpenAi.
+                                            </span></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <br>
+                            
+                            <a class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                                style="cursor: context-menu;">Angular</a>
+                                <a class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                                style="cursor: context-menu;">NestJS</a>
+                            <a class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                                style="cursor: context-menu;">Servicios de Google Cloud</a>
+                            <a class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                                style="cursor: context-menu;">Docker</a>
+                   
+                        </div>
+
+                        <br>
+                        <br>
+
+
+                        <div>
+                            <div class="group relative">
+                                <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+                                    <a>
+                                        <span class="absolute inset-0"></span>
                                         Revisión Equipos
                                     </a>
                                 </h3>
                                 <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
-                                    Aplicación para revisión de equipos.
+                                    Aplicación para revisión de equipos y mantenimiento para la generación de reportes.
                                 </p>
 
                                 <div class="mt-4">
@@ -92,7 +134,7 @@
                                                 el uso de backend en firebase gestionado en los sistemas de los proyectos.
                                             </span></li>
                                         <li class="text-gray-400"><span class="text-gray-600">Desarrollo en Aplicaciones Web
-                                                y Mobil </span></li>
+                                                y Móviles </span></li>
 
 
                                     </ul>

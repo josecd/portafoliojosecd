@@ -12,10 +12,11 @@
                 <ul role="list" class="-my-6 divide-y divide-gray-200 context-menu">
 
 
+
                     <li class="flex py-6">
                         <div class="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
-                            <img src="https://firebasestorage.googleapis.com/v0/b/portafoliojosecorderodiaz.appspot.com/o/lgoos%2FlogoREvisionEquipo.png?alt=media&token=fa85ecf3-d31f-4de4-b2de-316bffd43db8&_gl=1*cbjl4w*_ga*ODY1NTY1MzEyLjE2OTc2ODExODc.*_ga_CW55HF8NVT*MTY5NzgzOTQwOS4xMS4xLjE2OTc4Mzk5OTMuNjAuMC4w"
-                                alt="Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
+                            <img src="https://firebasestorage.googleapis.com/v0/b/portafoliojosecorderodiaz.appspot.com/o/alify3.png?alt=media&token=679b5532-e3f2-437a-a1d4-a135756c169a"
+                                alt="logo"
                                 class="h-full w-full object-cover object-center">
                         </div>
 
@@ -23,10 +24,10 @@
                             <div>
                                 <div class="flex justify-between text-base font-medium text-gray-900">
                                     <h3>
-                                        <a>Revisión Equipos</a>
+                                        <a>Alify</a>
                                     </h3>
                                 </div>
-                                <p class="mt-1 text-sm text-gray-500">Aplicación para revisión de equipos.
+                                <p class="mt-1 text-sm text-gray-500">Aplicación para gestión de empresas por medio de inteligencia artificial.
              
                                 </p>
                  
@@ -41,7 +42,66 @@
                                 </div>
                         </div>
                     </li>
+                    
 
+                    <li class="flex py-6">
+                        <div class="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
+                            <img src="https://firebasestorage.googleapis.com/v0/b/portafoliojosecorderodiaz.appspot.com/o/lgoos%2FlogoREvisionEquipo.png?alt=media&token=fa85ecf3-d31f-4de4-b2de-316bffd43db8&_gl=1*cbjl4w*_ga*ODY1NTY1MzEyLjE2OTc2ODExODc.*_ga_CW55HF8NVT*MTY5NzgzOTQwOS4xMS4xLjE2OTc4Mzk5OTMuNjAuMC4w"
+                                alt="logo"
+                                class="h-full w-full object-cover object-center">
+                        </div>
+
+                        <div class="ml-4 flex flex-1 flex-col">
+                            <div>
+                                <div class="flex justify-between text-base font-medium text-gray-900">
+                                    <h3>
+                                        <a>Revisión Equipos</a>
+                                    </h3>
+                                </div>
+                                <p class="mt-1 text-sm text-gray-500">Aplicación para revisión de equipos y mantenimiento para la generación de reportes.
+             
+                                </p>
+                 
+                            </div>
+                            <div class="flex flex-1 items-end justify-between text-sm">
+                                    <p class="text-gray-500">
+
+                                        
+                                    </p>
+
+ 
+                                </div>
+                        </div>
+                    </li>
+                    <li class="flex py-6">
+                        <div class="bg-black h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
+                            <img src="https://firebasestorage.googleapis.com/v0/b/portafoliojosecorderodiaz.appspot.com/o/b17959_ba8bbbb3f62d47efbb4471e8d823aa52~mv2.webp?alt=media&token=9644a275-be64-4740-9919-3745cc94da20"
+                                alt="logo"
+                                class="h-full w-full object-cover object-center">
+                        </div>
+
+                        <div class="ml-4 flex flex-1 flex-col">
+                            <div>
+                                <div class="flex justify-between text-base font-medium text-gray-900">
+                                    <h3>
+                                        <a>Plisso</a>
+                                    </h3>
+                                </div>
+                                <p class="mt-1 text-sm text-gray-500">Aplicación para gestión de empresas del sector medico.
+             
+                                </p>
+                 
+                            </div>
+                            <div class="flex flex-1 items-end justify-between text-sm">
+                                    <p class="text-gray-500">
+
+                                        
+                                    </p>
+
+ 
+                                </div>
+                        </div>
+                    </li>
                     <li class="flex py-6">
                         <div class="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
                             <img src="https://firebasestorage.googleapis.com/v0/b/portafoliojosecorderodiaz.appspot.com/o/lgoos%2Fclinica1280.png?alt=media&token=2382ea4b-b427-44bf-8799-388eff5776e6&_gl=1*17chafc*_ga*ODY1NTY1MzEyLjE2OTc2ODExODc.*_ga_CW55HF8NVT*MTY5NzgzOTQwOS4xMS4xLjE2OTc4Mzk5MjkuNjAuMC4w"
